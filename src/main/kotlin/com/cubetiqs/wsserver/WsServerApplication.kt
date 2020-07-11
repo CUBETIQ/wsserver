@@ -4,7 +4,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 import org.springframework.http.MediaType
 import org.springframework.messaging.handler.annotation.MessageMapping
-import org.springframework.messaging.rsocket.RSocketRequester
 import org.springframework.stereotype.Controller
 import org.springframework.stereotype.Service
 import org.springframework.web.bind.annotation.GetMapping
